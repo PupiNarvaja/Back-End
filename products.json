@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0
+  },
+  {
+    "id": 1
+  },
+  {
+    "id": 2
+  },
+  {
+    "title": "Jacket",
+    "price": 5000,
+    "thumbnail": "https://res.cloudinary.com/this/image/upload/v1642777578/p3_mc8xcq.jpg",
+    "id": 1
+  },
+  {
+    "title": "Shirt",
+    "price": 2300,
+    "thumbnail": "https://res.cloudinary.com/this/image/upload/v1642778633/p7_tvv6dj.jpg",
+    "id": 2
+  },
+  {
+    "title": "Jean",
+    "price": 3200,
+    "thumbnail": "https://res.cloudinary.com/this/image/upload/v1642778672/p9_mongye.jpg",
+    "id": 3
+  }
+]
